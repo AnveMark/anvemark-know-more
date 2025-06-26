@@ -1,7 +1,7 @@
 # Welcome to AnveMark's Research Hub 
 
 ## About This Repository
-This GitHub space is a curated knowledge hub by **AnveMark Research Pvt. Ltd.**, designed for:
+This GitHub space is a curated knowledge hub by **AnveMark Research Pvt.Ltd.**, designed for:
 -  Showcasing real-world case studies (anonymized & ethically curated)
 -  Sharing reusable code sets & data tools
 -  Demonstrating techniques used in client projects
