@@ -8,7 +8,7 @@ This GitHub space is a curated knowledge hub by **AnveMark Research Pvt.Ltd.**, 
 -  Educating young professionals and students entering the MR world
 -  Highlighting ethical guidelines followed during our studies
 
-We believe in **transparent research**, **ethical conduct**, and **shared learning** — this repository aims to bridge the gap between classroom knowledge and real field applications.
+We believe in **transparent research**, **ethical conduct**, and **shared learning** - this repository aims to bridge the gap between classroom knowledge and real field applications.
 
 ---
 
