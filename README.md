@@ -52,5 +52,5 @@ We are open to collaborations, especially with academia, industry partners, and 
 ---
 
 **Let’s build better insights together.**  
-— *Team AnveMark*
+- *Team AnveMark*
 
